@@ -1,7 +1,7 @@
 # Library-Management
-NAME : ALIYA SHEEMA
+NAME : DHARSHINIYAA KS
 
-REGISTER NUMBER : 212223230011
+REGISTER NUMBER : 212223100004
 
 ### AIM:
 To study the problem statement, SRS document and draw all the UML diagrams of a Library Management System.
